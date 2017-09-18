@@ -108,7 +108,7 @@ class LinkedList {
             indexOfElement++;
         }
         return -1;
-}
+	}
 }
 
 module.exports = LinkedList;
